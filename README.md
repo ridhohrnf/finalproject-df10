@@ -28,7 +28,7 @@ Create an infrastructure as code which makes the codes reusable and scalable for
 # Data Pipeline
 ![image](https://github.com/ridhohrnf/finalproject-df10/assets/63965187/64689c46-1724-42b0-91b9-c7e710ed45de)
 
-# visualisasi
+# Visualisasi
 ![image](https://github.com/ridhohrnf/finalproject-df10/assets/63965187/a560e01f-624f-484a-a050-061613950591)
 
 
