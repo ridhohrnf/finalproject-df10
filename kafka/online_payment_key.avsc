@@ -1,0 +1,6 @@
+{
+  "namespace": "com.online.payment",
+  "type": "record",
+  "name": "OnlinePayment",
+  "fields": [{ "name": "step_value", "type": "int" }]
+}
